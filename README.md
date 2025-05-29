@@ -1,6 +1,6 @@
 ## Description
 
-DIA-BERT demonstrates notable improvements in peptide identification and quantification performance compared to other tools, its training process remains undisclosed. This lack of transparency creates barriers for further advancements and hinders open academic collaboration. To address this, I have forked the repository to reproduce DIA-BERT's training pipeline. Preliminary progress has been achieved, and the training workflow will be open-sourced once the reproduction matches the paper's results. Technical advices or discussions on the methodology to refine the reproduction process are encouraged.
+DIA-BERT demonstrates notable improvements in peptide identification and quantification performance compared to other tools. However, its training process remains undisclosed. This lack of transparency creates barriers for further advancements and hinders open academic collaboration. To address this, I have forked the repository to reproduce DIA-BERT's training pipeline. Preliminary progress has been achieved, and the training workflow will be open-sourced once the reproduction matches the paper's results. Technical advices or discussions on the methodology to refine the reproduction process are encouraged.
 
 ## Original release intro
 <p align="center" style="margin-bottom: 0px !important;">
